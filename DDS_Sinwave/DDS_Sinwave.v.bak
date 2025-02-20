@@ -1,9 +1,0 @@
-module DDS_Sinwave
-(
-	input clk,
-	input rst_n,
-	
-	output [11:0] sinwave
-);
-
-endmodule
